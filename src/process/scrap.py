@@ -3,11 +3,6 @@
 Ce script permet à l'utilisateur, d'ajouter des URLs de paroles provenant du site Genius.com,
 de les récupérer, les nettoyer, les enregistrer dans des fichiers .txt portant le nom des musiques.
 Il vous demandera un dossier de sortie pour les fichiers textes récupérés.
-
-Ce script utilise deux modules qui doit être installer par vous-mêmes dans votre environnement Python :
-
-- Requests (pip install requests)
-- BeautifulSoup (pip install beautifulsoup4)
 """
 
 
@@ -111,18 +106,9 @@ def main():
     print("Sélection du dossier de sortie...")
     dossier = choisir_dossier_sortie()
 
-    # Liste d'URLs à scraper
+    # Liste d'URLs à insérer ici.
     urls = [
-        "https://genius.com/Hamza-kyky2bondy-lyrics",
-        "https://genius.com/Jul-mimi-lyrics",
-        "https://genius.com/Gims-ninao-lyrics",
-        "https://genius.com/Keblack-melrose-place-lyrics",
-        "https://genius.com/Gims-ciel-lyrics",
-        "https://genius.com/Keblack-mood-lyrics",
-        "https://genius.com/Jul-phenomenal-lyrics",
-        "https://genius.com/Werenoi-and-gims-piano-lyrics",
-        "https://genius.com/L2b-pelican-lyrics",
-        "https://genius.com/Attaching-boy-chambre-04-lyrics"
+        
     ]
 
     for i, url in enumerate(urls, start=1):

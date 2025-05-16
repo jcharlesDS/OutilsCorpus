@@ -2,10 +2,6 @@
 
 Script simple de crawling python.
 Il utilise deux modules à installer :
-
-- Requests (pip install requests)
-- BeautifulSoup (pip install beautifulsoup4)
-
 """
 
 import requests
