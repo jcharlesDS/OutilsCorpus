@@ -10,10 +10,10 @@
 - Des données textuelles (fichiers textes bruts)
 
 4 - Où allez-vous récupérer vos données ?
-- Pour récupérer les paroles de musiques, j'ai utilisé le site spécialisé sur les paroles de musiques populaires (comme Genius)
+- Pour récupérer les paroles de musiques, j'ai utilisé un site spécialisé sur les paroles de musiques populaires (Genius)
 
 5 - Sont-elles libres d'accés ?
-- D'après le robots.txt du site, il semblerait que cela soit le cas.
+- D'après le robots.txt du site, il semblerait que ce soit le cas.
 
 -------------------------------------
 
@@ -37,14 +37,14 @@ Processus :
 
 --------------------------------------
 
-**Objectif initial** : Voir s'il était possible de traiter les paroles de musiques, en français. D'obtenir les thèmes les plus récurrents des musiques les plus populaires récentes dans le pays. Enfin de générer des paroles de musique.
+**Objectif initial** : Voir s'il était possible de traiter les paroles de musiques, en français. Obtenir les thèmes les plus récurrents des musiques les plus populaires récentes, dans le pays. Enfin, de générer des paroles de musique par l'intérmédiaire d'un modèle Transformer.
 
-**Elément perturbateur** : La grande majorité des musiques du corpus initial (les 10 musiques les plus écoutés en france via Spotify durant ce mois : Mai 2025) sont majoritairement en registre de langue familier ou grossier, utilisation du verlan, beaucoup d'emprunts à d'autres langues, des onomatopés, etc...
+**Élément perturbateur** : La grande majorité des musiques du corpus initial (les 10 musiques les plus écoutés en france via Spotify durant ce mois : Mai 2025) sont majoritairement en registre de langue familier (très familier), utilisation du verlan, beaucoup d'emprunts à d'autres langues, des onomatopés, etc...
 Cela ne facilitant pas mon analyse.
 
-Deuxième point, les modèles, en tout cas, en français, comme **camembert** ou encore **gpt2-french-small** ne sont pas conçus ni entrainés pour générer des paroles de musiques. Les résultats sont...particuliers. (en tout cas avant fine-tuning précis)
+Deuxième point, les modèles, en tout cas, en français, comme **camembert** ou encore **gpt2-french-small** ne sont pas conçus ni entrainés pour générer des paroles de musiques. Les résultats sont...particuliers. (avant fine-tuning précis)
 
-**Décision** : Abandon de l'analyse de sentiment des paroles. Etant donné que le corpus synthétique et le corpus d'origine sont très particuliers, les données me semblent compliquer pour en ressortir des résultats pertinents.
+**Décision** : Abandon de l'analyse de sentiment des paroles. Etant donné que le corpus synthétique et le corpus d'origine sont très particuliers, les données me semblent difficilement exploitable pour des résultats pertinents.
 
 
 **Mot de la fin** :
