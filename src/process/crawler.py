@@ -1,7 +1,6 @@
 """ Script de crawling
 
 Script simple de crawling python.
-Il utilise deux modules à installer :
 """
 
 import requests

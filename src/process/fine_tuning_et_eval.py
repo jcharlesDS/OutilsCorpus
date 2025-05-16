@@ -1,4 +1,4 @@
-""" Fine-tuning
+""" Fine-tuning et évaluation
 
 Script de fine-tuning et d'évaluation de la perplexité.
 """
