@@ -1,0 +1,29 @@
+Rapport statistique pour : Melrose Place
+----------------------------------------
+Nombre total de mots       : 489
+Nombre de mots uniques     : 130
+Richesse lexicale : 0.27
+
+Mots les plus fréquents :
+  pas : 40
+  ah : 38
+  cest : 24
+  ça : 24
+  sarrête : 17
+  nan : 16
+  hey : 16
+  woah : 16
+  tcho : 15
+  unh : 15
+
+Parties du discours (POS) les plus fréquentes :
+  VERB : 118
+  NOUN : 78
+  ADV : 78
+  PRON : 50
+  ADJ : 48
+  DET : 46
+  ADP : 39
+  PROPN : 12
+  AUX : 9
+  INTJ : 8

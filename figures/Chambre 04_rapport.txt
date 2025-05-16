@@ -1,0 +1,29 @@
+Rapport statistique pour : Chambre 04
+----------------------------------------
+Nombre total de mots       : 254
+Nombre de mots uniques     : 114
+Richesse lexicale : 0.45
+
+Mots les plus fréquents :
+  ka : 22
+  sa : 13
+  la : 10
+  chambre : 9
+  kay : 9
+  comme : 8
+  baby : 8
+  ou : 8
+  bay : 8
+  men : 5
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 77
+  VERB : 50
+  DET : 36
+  ADP : 20
+  PROPN : 17
+  PRON : 16
+  ADV : 11
+  ADJ : 9
+  CCONJ : 9
+  SCONJ : 5

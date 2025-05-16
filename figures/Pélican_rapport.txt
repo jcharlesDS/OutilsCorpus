@@ -1,0 +1,29 @@
+Rapport statistique pour : Pélican
+----------------------------------------
+Nombre total de mots       : 336
+Nombre de mots uniques     : 148
+Richesse lexicale : 0.44
+
+Mots les plus fréquents :
+  jsuis : 15
+  jusquà : 11
+  quand : 11
+  han : 10
+  pas : 10
+  trainer : 8
+  dismoi : 8
+  mon : 7
+  zoner : 7
+  en : 7
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 75
+  VERB : 57
+  ADV : 53
+  ADJ : 45
+  DET : 42
+  ADP : 30
+  SCONJ : 13
+  PRON : 10
+  CCONJ : 5
+  PROPN : 4

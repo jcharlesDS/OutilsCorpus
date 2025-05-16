@@ -1,0 +1,29 @@
+Rapport statistique pour : Mimi
+----------------------------------------
+Nombre total de mots       : 485
+Nombre de mots uniques     : 129
+Richesse lexicale : 0.27
+
+Mots les plus fréquents :
+  moi : 26
+  elle : 19
+  à : 18
+  ça : 16
+  yoyoyoyoyoyoyo : 14
+  jaime : 13
+  et : 13
+  mimi : 12
+  que : 12
+  mdit : 11
+
+Parties du discours (POS) les plus fréquentes :
+  VERB : 94
+  PRON : 83
+  NOUN : 59
+  ADJ : 59
+  ADV : 42
+  DET : 37
+  ADP : 36
+  AUX : 24
+  SCONJ : 21
+  CCONJ : 17

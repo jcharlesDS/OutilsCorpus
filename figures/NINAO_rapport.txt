@@ -1,0 +1,29 @@
+Rapport statistique pour : NINAO
+----------------------------------------
+Nombre total de mots       : 174
+Nombre de mots uniques     : 86
+Richesse lexicale : 0.49
+
+Mots les plus fréquents :
+  naninananininaoh : 28
+  naninaninaninaoh : 28
+  dès : 8
+  la : 4
+  des : 3
+  ça : 2
+  jsuis : 2
+  comme : 2
+  mon : 2
+  amour : 2
+
+Parties du discours (POS) les plus fréquentes :
+  ADJ : 76
+  NOUN : 25
+  ADP : 17
+  VERB : 17
+  ADV : 14
+  DET : 13
+  PRON : 7
+  SCONJ : 3
+  AUX : 1
+  PROPN : 1

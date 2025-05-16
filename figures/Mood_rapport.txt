@@ -1,0 +1,28 @@
+Rapport statistique pour : Mood
+----------------------------------------
+Nombre total de mots       : 467
+Nombre de mots uniques     : 98
+Richesse lexicale : 0.21
+
+Mots les plus fréquents :
+  mec : 17
+  un : 16
+  les : 16
+  tu : 15
+  nous : 14
+  comme : 14
+  avant : 14
+  sais : 13
+  autre : 13
+  plus : 13
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 88
+  ADP : 73
+  VERB : 71
+  PRON : 65
+  ADV : 55
+  DET : 55
+  ADJ : 48
+  SCONJ : 9
+  PROPN : 3

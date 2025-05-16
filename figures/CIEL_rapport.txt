@@ -1,0 +1,29 @@
+Rapport statistique pour : CIEL
+----------------------------------------
+Nombre total de mots       : 390
+Nombre de mots uniques     : 117
+Richesse lexicale : 0.30
+
+Mots les plus fréquents :
+  azonto : 70
+  ciel : 22
+  mmh : 12
+  oui : 11
+  une : 9
+  vert : 9
+  magicienne : 8
+  elle : 8
+  est : 8
+  tombée : 8
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 132
+  VERB : 51
+  ADJ : 47
+  DET : 37
+  PRON : 31
+  ADP : 30
+  PROPN : 23
+  AUX : 18
+  ADV : 13
+  SCONJ : 4

@@ -1,0 +1,29 @@
+Rapport statistique pour : Phénoménal
+----------------------------------------
+Nombre total de mots       : 545
+Nombre de mots uniques     : 160
+Richesse lexicale : 0.29
+
+Mots les plus fréquents :
+  you : 54
+  les : 22
+  et : 14
+  seul : 13
+  des : 13
+  la : 12
+  moi : 11
+  ah : 10
+  en : 10
+  jai : 9
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 151
+  ADJ : 90
+  VERB : 70
+  DET : 60
+  PRON : 54
+  ADP : 46
+  ADV : 22
+  CCONJ : 15
+  AUX : 13
+  X : 11

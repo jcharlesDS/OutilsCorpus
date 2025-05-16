@@ -1,0 +1,29 @@
+Rapport statistique pour : Piano
+----------------------------------------
+Nombre total de mots       : 506
+Nombre de mots uniques     : 158
+Richesse lexicale : 0.31
+
+Mots les plus fréquents :
+  piano : 30
+  la : 26
+  y : 19
+  va : 15
+  on : 13
+  bébé : 12
+  aller : 12
+  pas : 11
+  tu : 10
+  trop : 9
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 82
+  VERB : 75
+  ADJ : 67
+  PRON : 66
+  DET : 52
+  ADV : 51
+  ADP : 51
+  PROPN : 34
+  CCONJ : 14
+  SCONJ : 9

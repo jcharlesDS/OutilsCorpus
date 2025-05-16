@@ -1,0 +1,29 @@
+Rapport statistique pour : KYKY2BONDY
+----------------------------------------
+Nombre total de mots       : 484
+Nombre de mots uniques     : 166
+Richesse lexicale : 0.34
+
+Mots les plus fréquents :
+  yeah : 46
+  elle : 29
+  ih : 21
+  les : 19
+  de : 19
+  le : 19
+  ma : 11
+  est : 11
+  faut : 9
+  et : 8
+
+Parties du discours (POS) les plus fréquentes :
+  NOUN : 122
+  VERB : 88
+  DET : 70
+  PRON : 60
+  ADP : 44
+  ADJ : 43
+  AUX : 17
+  CCONJ : 16
+  ADV : 12
+  PROPN : 8
