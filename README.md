@@ -46,6 +46,17 @@ Deuxième point, les modèles, en tout cas, en français, comme **camembert** ou
 
 **Décision** : Abandon de l'analyse de sentiment des paroles. Etant donné que le corpus synthétique et le corpus d'origine sont très particuliers, les données me semblent difficilement exploitable pour des résultats pertinents.
 
+**Evaluation** : 
+
+J'ai évalué la perplexité (le nombre moyen de choix considéré par le modèle lors de sa tâche, ici, la génération de texte (paroles))
+Pour cette mesure d'évaluation, plus la valeur obtenue est basse, meilleur est ton modèle.
+Dans le cas de ce projet, la valeur de perplexité est de :
+
+![](figures/Perplexity.png)
+
+Avec 20.18 en valeur, on considère cela comme acceptable, correct mais améliorable.
+Comment? Soit en augmentant davantage la taille du corpus, soit en réglant les hyperparamètres comme le "**batch size**" ou le "**learning rate**", ou encore en homogénéisant les styles de texte (cependant ou pourrait de cette manière émettre un biais)
+
 
 **Mot de la fin** :
 Projet intéressant, que j'aimerai approfondir par la suite.
