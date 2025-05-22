@@ -4,6 +4,7 @@ Script permettant de lire les fichiers textes d'un dossier,
 extrait les thèmes des paroles (inscrites sur la seconde ligne des fichiers),
 récupère le texte également, crée un encodage multi-hot des thèmes et
 enregistre le résultat en JSON.
+
 """
 
 import os
@@ -13,7 +14,8 @@ import tkinter as tk
 from tkinter import filedialog
 
 def extraire_themes(ligne):
-    """Extrait les thèmes entre crochets [ ] sous forme de liste
+    """
+    Extrait les thèmes entre crochets [ ] sous forme de liste
     """
     match = re.search(r'\[(.*?)\]', ligne)
     if match:
@@ -21,7 +23,8 @@ def extraire_themes(ligne):
     return []
 
 def preprocess_folder(folder_path, output_json_path):
-    """ Processus de prétraitement des fichiers pour une classification multi-label
+    """ 
+    Processus de prétraitement des fichiers pour une classification multi-label
     """
     all_labels = set()
     data = []

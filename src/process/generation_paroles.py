@@ -98,13 +98,13 @@ if __name__ == "__main__":
 
     # Nombre de chansons générés par thèmes/prompts
     try:
-        nb_chansons = int(input("Combien de chansons par thème veux-tu générer ? "))
+        nb_chansons = int(input("Combien de chansons par thème voulez-vous générer ? "))
     except ValueError:
         print("Entrée invalide. Valeur par défaut : 3 .")
         nb_chansons = 3
 
     # Nombre de variantes par chanson
-    nb_variantes = input("Combien de chansons veux-tu générer par chanson ? ")
+    nb_variantes = input("Combien de variantes voulez-vous générer par chanson ? ")
     variantes_par_chanson = int(nb_variantes)
 
     # Génération de chansons

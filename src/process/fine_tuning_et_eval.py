@@ -52,10 +52,10 @@ dataset = dataset.map(tokenize_function, batched=True)
 # Gestion du modèle
 model = GPT2LMHeadModel.from_pretrained(MODEL_NAME)
 
-# Gestion de la data collator
+# Gestion de l'assemblage (collecte) des données pour l'entrainement
 data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
-# Entraînement
+# Paramètres et lancement de l'entrainement
 training_args = TrainingArguments(
     output_dir=OUTPUT_DIR,
     overwrite_output_dir=True,
